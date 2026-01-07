@@ -3,7 +3,7 @@
 Frontend dev who likes clean UI, smooth interactions, and code that doesn’t fight back later. I spend most of my time turning designs into real, usable products — and fixing the tiny things most people ignore.
 
 🔭 Currently working on:
-My portfolio + React-based frontend projects
+My portfolio + React-based frontend projects [Catverse](https://catverse.vercel.app/)
 
 🌱 Currently learning:
 Better React patterns, performance tweaks, and modern CSS tricks
@@ -18,7 +18,7 @@ Open-source contributions and building frontend systems that scale
 React, UI polish, API integration, debugging weird frontend issues
 
 📫 Reach me at:
-Email_apurva.paul.k@gmail.com_
+   apurva.paul.k@gmail.com
 
 😄 Pronouns:
 He / Him
