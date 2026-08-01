@@ -1,30 +1,31 @@
-👋 Hello, I’m Kayden
+# 👋 Hello, I’m Kayden
 
-Frontend dev who likes clean UI, smooth interactions, and code that doesn’t fight back later. I spend most of my time turning designs into real, usable products — and fixing the tiny things most people ignore.
+Full Stack Developer who enjoys building scalable web applications from frontend to backend. I like creating clean user experiences, designing reliable APIs, and writing code that's easy to maintain.
 
-🔭 Currently working on:
-My portfolio + React-based frontend projects [Catverse](https://catverse.vercel.app/)
+🔭 **Currently working on:**
+My portfolio, full stack React + Node.js projects, and expanding my backend expertise.
 
-🌱 Currently learning:
-Better React patterns, performance tweaks, and modern CSS tricks
+🌱 **Currently learning:**
+System design, cloud deployment, authentication, and performance optimization.
 
-👯 Looking to collaborate on:
-Frontend apps, dashboards, landing pages, or anything UI-heavy
+👯 **Looking to collaborate on:**
+Full stack applications, SaaS products, developer tools, and open-source projects.
 
-🤔 Looking for help with:
-Open-source contributions and building frontend systems that scale
+🤔 **Looking for help with:**
+Scalable architectures, DevOps practices, and contributing to large open-source projects.
 
-💬 Ask me about:
-React, UI polish, API integration, debugging weird frontend issues
+💬 **Ask me about:**
+React, Node.js, Express, MongoDB, REST APIs, JavaScript, TypeScript, and full stack development.
 
-📫 Reach me at:
-   apurva.paul.k@gmail.com
+📫 **Reach me at:**
+[apurva.paul.k@gmail.com](mailto:apurva.paul.k@gmail.com)
 
-😄 Pronouns:
+😄 **Pronouns:**
 He / Him
 
-⚡ Fun fact:
-I’ll spend 30 minutes fixing a 2px misalignment and call it a win.
+⚡ **Fun fact:**
+I enjoy solving backend logic just as much as polishing the last pixel on the frontend.
+
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
