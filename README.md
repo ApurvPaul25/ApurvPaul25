@@ -27,6 +27,6 @@ He / Him
 I’ll spend 30 minutes fixing a 2px misalignment and call it a win.
 
 <h2 align="center">Languages and Tools:</h2>
-<p align="center>
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 </p>
