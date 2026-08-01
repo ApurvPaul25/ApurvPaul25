@@ -26,8 +26,8 @@ He / Him
 ⚡ Fun fact:
 I’ll spend 30 minutes fixing a 2px misalignment and call it a win.
 
-<h2 align="center">Languages and Tools:</h2>
-<p align="center">
+<h2 align="left">Languages and Tools:</h2>
+<p align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" alt="ReactJS"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="40" height="40" alt="Axios"/>
