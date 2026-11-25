@@ -2,6 +2,26 @@
 
 Full Stack Developer who enjoys building scalable web applications from frontend to backend. I like creating clean user experiences, designing reliable APIs, and writing code that's easy to maintain.
 
+<div align="center">
+
+<a href="https://portfolio-tawny-psi-v7h2vjjn9q.vercel.app/" target="_blank">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:343434,100:606060&height=200&section=header&text=EXPLORE%20MY%20PORTFOLIO&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Design%20%7C%20Development%20%7C%20Creative%20Engineering&descAlignY=65&descSize=15" width="100%"/>
+</a>
+
+<br/>
+
+<a href="https://portfolio-tawny-psi-v7h2vjjn9q.vercel.app/">
+  <img src="https://img.shields.io/badge/✦%20VISIT%20MY%20PORTFOLIO-Explore%20Now-black?style=for-the-badge&logo=vercel&logoColor=white" height="45"/>
+</a>
+
+<br/><br/>
+
+### Turning ideas into digital experiences.
+
+**[portfolio-tawny-psi-v7h2vjjn9q.vercel.app](https://portfolio-tawny-psi-v7h2vjjn9q.vercel.app/)**
+
+</div>
+
 🔭 **Currently working on:**
 My portfolio, full stack React + Node.js projects, and expanding my backend expertise.
 
